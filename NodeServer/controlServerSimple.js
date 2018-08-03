@@ -1,7 +1,7 @@
 // Requires
 var SerialPort = require('serialport');
-//var port = new SerialPort('/dev/tty-usbserial1', {
-var port = new SerialPort('COM3', {
+var port = new SerialPort('/dev/ttyACM0', {
+//var port = new SerialPort('COM3', {
     baudRate: 9600
 });
 
