@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/controlServer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -37,8 +37,8 @@
       <file leaf-file-name="controlServerSimple.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/controlServerSimple.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="695">
+              <caret line="49" column="19" lean-forward="false" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -131,12 +131,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533262218139</updated>
-      <workItem from="1533262219467" duration="1305000" />
+      <workItem from="1533262219467" duration="5541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1305000" />
+    <option name="totallyTimeSpent" value="5541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
@@ -184,7 +184,7 @@
     <entry file="file://$PROJECT_DIR$/controlServer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -199,8 +199,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/controlServerSimple.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="695">
+          <caret line="49" column="19" lean-forward="false" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="19" />
           <folding />
         </state>
       </provider>

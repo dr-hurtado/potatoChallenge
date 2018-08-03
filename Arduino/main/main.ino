@@ -31,7 +31,6 @@ void loop() {
 }
 
 void serialEvent() {
-    
     while (Serial.available()) {
     char inChar = (char)Serial.read();
     inputString += inChar;
@@ -97,6 +96,7 @@ void serialEvent() {
           speedOutput = 0;
         break;
     }
+    Serial.flush();
   }
 }
 
